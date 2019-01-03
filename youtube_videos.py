@@ -2,9 +2,9 @@ from apiclient.discovery import build
 from apiclient.errors import HttpError
 from oauth2client.tools import argparser
 
-DEVELOPER_KEY = "AIzaSyCCQ5kaaefu1BWJ_m3JtmrhnqT6ppwEw6I"
-YOUTUBE_API_SERVICE_NAME = "youtube"
-YOUTUBE_API_VERSION = "v3"
+DEVELOPER_KEY = ""
+YOUTUBE_API_SERVICE_NAME = ""
+YOUTUBE_API_VERSION = ""
 
 
 
