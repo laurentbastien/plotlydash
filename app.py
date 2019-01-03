@@ -116,7 +116,7 @@ def update_output_div(input_value):
   just_json[1]
 
   url1 = "https://www.googleapis.com/youtube/v3/search?part=snippet&relatedToVideoId="
-  url2 = "&type=video&key=AIzaSyCCQ5kaaefu1BWJ_m3JtmrhnqT6ppwEw6I"
+  url2 = "&type=video&key="
 
   myvideoids = []
   myvideotitles = []
